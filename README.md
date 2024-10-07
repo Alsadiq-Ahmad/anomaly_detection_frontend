@@ -2,6 +2,8 @@
 
 This repository contains the **frontend** of the Real-Time Anomaly Detection Dashboard. It is built using **React** with **TypeScript** and provides an interactive interface to visualize real-time data streams and detected anomalies. The frontend communicates with a Flask-based backend that performs anomaly detection using the **Z-score** method.
 
+![dashboard](https://github.com/user-attachments/assets/e0c2aa07-4e4a-4231-811f-71943afb680f)
+
 ## Features
 
 - **Real-Time Data Visualization**: Display real-time data streams with live updates.
